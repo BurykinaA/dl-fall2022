@@ -1,0 +1,7 @@
+tasks:
+  - task1 :
+      answer : [0, 0, 0]
+  - task2 :
+      answer : 0.
+  - task3 :
+      answer : 0.

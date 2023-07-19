@@ -1,0 +1,26 @@
+tasks:
+- task1:
+    answer:
+      bleu: 0.08667705639092577
+      brevity_penalty: 0.7303273599096396
+      length_ratio: 0.7608830584959152
+      precisions:
+      - 0.4893401239059021
+      - 0.18164021039224473
+      - 0.07254489728716533
+      - 0.03076923076923077
+      reference_length: 59611
+      translation_length: 45357
+- task2:
+    answer:
+    - more pedestrian safety
+    - two plant are so close to their intention or
+    - this confirms the fact that the
+    - therefore the construction of another more expensive more than security is simply
+      required here
+    - there are three
+    - the pedestrian protection of pedestrian is
+    - another is looking at whether the pedestrian protection can be completed
+    - ha been over over year old the need of his young people and the soul
+    - the text appears to be too little confidence in the text
+    - they will be hard with the of water with their to the wall
